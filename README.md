@@ -1,2 +1,0 @@
-# benchsync
-Project

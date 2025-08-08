@@ -1,0 +1,18 @@
+
+    John Doe
+    Software Engineer
+    
+    Skills: Python, JavaScript, React, Node.js, SQL, AWS, Docker, Machine Learning
+    
+    Experience:
+    - Senior Software Engineer at Tech Corp (2020-2023)
+    - Full Stack Developer at StartupXYZ (2018-2020)
+    
+    Education:
+    - Bachelor of Science in Computer Science
+    
+    Projects:
+    - Built scalable web applications using React and Node.js
+    - Implemented machine learning models for data analysis
+    - Deployed applications on AWS cloud infrastructure
+    
