@@ -20,6 +20,10 @@ DATABASE_URL = "postgresql://postgres:2005@localhost:5432/consultant_bench_db"
 engine = create_engine(DATABASE_URL, echo=False)
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 
+def get_database_url():
+    """Get database URL"""
+    return DATABASE_URL
+
 def init_database():
     """Initialize database tables"""
     try:

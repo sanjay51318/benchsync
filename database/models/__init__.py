@@ -2,6 +2,7 @@
 from .consultant import Consultant, Base
 from .bench_status import BenchActivity, BenchUtilization
 from .project_opportunity import ProjectOpportunity, ConsultantProjectMatch
+from .resume_data import ResumeData, ConsultantSkill
 
 __all__ = [
     "Consultant", 
@@ -9,5 +10,7 @@ __all__ = [
     "BenchActivity", 
     "BenchUtilization",
     "ProjectOpportunity", 
-    "ConsultantProjectMatch"
+    "ConsultantProjectMatch",
+    "ResumeData",
+    "ConsultantSkill"
 ]
